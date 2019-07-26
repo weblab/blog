@@ -1,0 +1,1 @@
+jekyll serve --watch --source=../ --host=0.0.0.0 --port=8899 --destination=dev
