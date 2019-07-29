@@ -21,8 +21,6 @@ menu:
     url: /pages/search.html
   - title: Links
     url: /pages/links.html
-  - title: About
-    url: /pages/about.html
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
