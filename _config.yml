@@ -1,14 +1,14 @@
 encoding: utf-8
 
 # SEO相关信息
-title: web leb
-description: webleb
+title: web实验室
+description: web实验室
 keywords: Blog,Java,Html,JavaScript
-author: TMaize
+author: web
 
 # 域名配置
 # baseUrl配置,如果网站部署在根目录下的目录中，请设置为 /目录名
-domainUrl: 'http://blog.wlsite.tk'
+domainUrl: 'https://blog.web-lab.ml'
 baseUrl: ''
 
 # 菜单
