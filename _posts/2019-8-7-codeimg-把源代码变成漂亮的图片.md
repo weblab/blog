@@ -3,6 +3,8 @@ layout: mypost
 title: codeimg-把源代码变成漂亮的图片
 categories: [小工具,代码]
 ---
+＞本文为青小蛙原创
+原文：https://www.appinn.com/codeimg-online/
 codeimg是一款帮你把源代码转换成漂亮图片格式的在线工具，以便与在社交网络分享。
 ![](https://img3.appinn.net/images/201907/codeimg.jpg)
 虽然，很多人对于把源代码变成图片格式，降低可复制性表示非常不屑，但创建易于分享的源代码图片其实和代码高亮一样，让代码变得更美观。    
@@ -26,3 +28,4 @@ Codeimg 使用起来非常简单，只需要把你的代码贴进去，然后设
 Facebook 包括 Profile、Cover、Shared、Event Image 样式，Twitter 包括 Profile、Header、In-Stream Photo，Instagram 包括 Profile、Thumbnails、Stories 等样式。其实就是不同尺寸的图片大小，并无太多玄学。     
 但是，真的没有在 Instagram 里见过分享源代码的…这是和社交网络有多过不去啊…       
 [点此进入Codeimg官网](https://codeimg.io/ "点此进入Codeimg官网")
+ 
