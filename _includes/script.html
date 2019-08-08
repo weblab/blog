@@ -5,3 +5,13 @@
 {% for js in pageJS %}
 <script type="text/javascript" src="{{site.baseUrl}}/static/js/{{ js }}?t={{ buildAt }}"></script>
 {% endfor %}
+<!--百度统计-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?85af5ac96a754144b9fcf54a2ead00fa";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
