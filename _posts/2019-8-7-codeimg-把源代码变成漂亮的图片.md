@@ -3,8 +3,9 @@ layout: mypost
 title: codeimg-把源代码变成漂亮的图片
 categories: [小工具,代码]
 ---
->本文为青小蛙原创
-原文：https://www.appinn.com/codeimg-online/
+>本文为青小蛙原创    
+原文：https://www.appinn.com/codeimg-online/    
+
 codeimg是一款帮你把源代码转换成漂亮图片格式的在线工具，以便与在社交网络分享。
 ![](https://img3.appinn.net/images/201907/codeimg.jpg)
 虽然，很多人对于把源代码变成图片格式，降低可复制性表示非常不屑，但创建易于分享的源代码图片其实和代码高亮一样，让代码变得更美观。    
