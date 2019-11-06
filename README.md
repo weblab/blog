@@ -1,6 +1,6 @@
 # 介绍
 
-一款 jekyll 主题（[GitHub 地址](https://github.com/TMaize/tmaize-blog)），简洁纯净，未引入任何框架，秒开页面，支持自适应，支持全文检索
+一款 jekyll 主题（[源GitHub 地址](https://github.com/TMaize/tmaize-blog)），简洁纯净，未引入任何框架，秒开页面，支持自适应，支持全文检索
 
 下面有具体的样式截图，或者你可以到[TMaize Blog](http://blog.tmaize.net/)查看运行效果
 
@@ -43,11 +43,3 @@ categories: [分类1,分类2]
 
 [xxx.zip下载](xxx.zip)
 ```
-
-# 移动端截图
-
-![mobile](static/readme/mobile.jpg)
-
-# PC 端截图
-
-![pc](static/readme/pc.jpg)
