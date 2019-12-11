@@ -6,6 +6,7 @@ css: [blog.css]
 js: [blog.js,plugin.js]
 ---
 <div class="container page-index animation-fade-up">
+	博客已迁移到<a href="https://meta.appinn.net/c/app/tim1103">https://meta.appinn.net/c/app/tim1103</a>
 	{% for post in site.posts  %}
 		{% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 		{% capture post_previous_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
